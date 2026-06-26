@@ -1,0 +1,6 @@
+{
+  "name": "GlowWithAmisha",
+  "description": "A premium skincare brand website featuring natural, dermatologically tested products for healthy and glowing skin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
