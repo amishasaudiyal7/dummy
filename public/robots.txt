@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dummy-alpha-bice.vercel.app/sitemap.xml
